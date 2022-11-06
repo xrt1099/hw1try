@@ -1,0 +1,1 @@
+# short description of the libraryThis is the main function from Max's code to call the polygon api every 1 seconds for 24 hours.

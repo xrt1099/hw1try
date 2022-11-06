@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+setup.py
+files for main function library/__init__.py
+hw1mainfunction.egg-info/PKG-INFO
+hw1mainfunction.egg-info/SOURCES.txt
+hw1mainfunction.egg-info/dependency_links.txt
+hw1mainfunction.egg-info/requires.txt
+hw1mainfunction.egg-info/top_level.txt

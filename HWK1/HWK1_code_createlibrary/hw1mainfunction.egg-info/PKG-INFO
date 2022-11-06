@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: hw1mainfunction
+Version: 0.0.1
+Summary: main function from Max to call polygon api
+Home-page: 
+Author: Ruoting Xie
+Author-email: xrt200510@163.com
+License: MIT
+Keywords: mainfunction
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: LICENSE.txt
+
+# short description of the library
+This is the main function from Max's code to call the polygon api every 1 seconds for 24 hours.
+
+Change log
+==========
+
+0.0.1 (11/05/2022)
+------------------
+- First Release 
+
